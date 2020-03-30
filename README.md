@@ -62,7 +62,7 @@ a sernite script can be added easly to project using
 ```bash
 sernite add script
 ```
-after running this command, you will be fill some area:
+after running this command, you will  fill some area:
   -  **URL** : the URL that invokes this sernite scripts
   
   -  **PATH** : path of the sernite script
