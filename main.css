@@ -31,20 +31,18 @@ aside.sidebar *{
   font-size: 1.4rem !important;
   color :#F9F9F9 !important;
 }
-li a.section-link{
-  padding-left: 1rem;
-  transition-duration: 300ms;
-  border-top-left-radius: 15px ;
-  border-bottom-left-radius: 15px ;
 
+.app-name .app-name-link{
+  font-size: 150% !important;
+  font-weight: 700 !important;
+}
+aside.sidebar li a {
+  padding-left: .4rem !important;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
 }
 
-li:hover a.section-link {
-  background-color: rgba(219, 84, 84, 0.39) !important;
-
-}
-
-li.active a.section-link{
+aside.sidebar li.active a{
   background-color: rgb(219, 84, 84) !important;
 }
 
