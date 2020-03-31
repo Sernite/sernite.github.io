@@ -4,7 +4,7 @@
     * [Quick Start](/#quickstart)
     
 * [Features](features.md)
-    * [Sernite Script](/features#sernite-script)
+    * [Sernite Scripts](/features#sernite-scripts)
     * [Nits](/features#nits)
     * [Sernite.json](/features#sernite.json)
     * 
