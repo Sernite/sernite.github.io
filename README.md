@@ -17,7 +17,7 @@ Sernite is a server-side scripting framework for building pretty modular web ser
 
 ## Installation
 
-Sernite can be installed easily by [npm](//npmjs.com/sernite)
+Sernite can be installed easily using [npm](//npmjs.com/sernite)
 
 ```bash
 npm install -g sernite

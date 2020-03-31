@@ -36,6 +36,10 @@ aside.sidebar *{
   font-size: 150% !important;
   font-weight: 700 !important;
 }
+
+.app-name .app-name-link img{
+  width: 12rem;
+}
 aside.sidebar li a {
   padding-left: .4rem !important;
   border-top-left-radius: 15px;

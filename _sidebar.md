@@ -3,8 +3,8 @@
     * [Installation](/#installation)
     * [Quick Start](/#quickstart)
     
-* [Features](features.md)
-    * [Sernite Scripts](/features#sernite-scripts)
-    * [Nits](/features#nits)
-    * [Sernite.json](/features#sernite.json)
-    * 
+* [Components](components)
+    * [Sernite Scripts](/components#sernite-scripts)
+    * [Nits](/components#nits)
+    * [Sernite.json](/components#sernite.json)
+    * [Sernite Classes](/)
